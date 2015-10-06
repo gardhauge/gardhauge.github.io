@@ -1,0 +1,12 @@
+# Site settings
+title: Shades of Gard
+email:
+description: Environmentally concerned software developer, father of three and devoted husband
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://gardhauge.github.io" # the base hostname & protocol for your site
+twitter_username: gardhauge
+github_username:  gardhauge
+linkedin_username:  gardhauge
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,38 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+<p>Feel free to contact me through the contact form below.
+<p>If you prefer, don't hesitate to contact me through <a href="https://linkedin.com/in/gardhauge">LinkedIn</a> instead.
+
+<form class="simple_form" action="https://getsimpleform.com/messages?form_api_token=b6822d1438b8ed1581675675dc357763" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='http://gardhauge.net' />
+  <!-- all your input fields here.... -->
+  </br>
+  <label>Email:</label>
+  <input type="text" name="email" size="30" required ng-model="email"/>
+  </br>
+  <label>Subject:</label>
+  <input type="text" name="title"  size="30"/>
+  </br>
+  <label>Message:</label>
+  <textarea name="message" rows="20" cols="50" required ng-model="message"></textarea>
+  </br>
+  <input type='submit' value='Submit' />
+</form>
+
+<p>This form was made possible with:
+<ul>
+  <li>
+    <a href="https://getsimpleform.com/">Simple Form</a> for a great, simple and free form submission service
+  </li>
+  <li>
+    <a href="https://angularjs.org/">AngularJS</a> for making form validation absurdly simple
+  </li>
+  <li>
+    <a href="https://akismet.com">Akismet</a> for spam filtering of messages
+  </li>
+</ul>
