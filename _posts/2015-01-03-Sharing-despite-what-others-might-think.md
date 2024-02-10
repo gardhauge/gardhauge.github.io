@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sharing despite what others might think"
+tags: courage
 ---
 
 I’ve always wanted to share my thoughts. At the same time I’ve been way to concerned about what other people think. I’ve started countless blogs and web pages over the years. None of them has been able to stay around for long. I tend to start worrying what people might think, and then I close the page before anybody could find it.

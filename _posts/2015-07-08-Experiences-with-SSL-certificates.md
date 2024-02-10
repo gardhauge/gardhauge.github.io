@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Experiences with SSL certificates"
+tags: encryption
 ---
 
 Some time ago I discovered that the SSL certificate on a Rails system I maintain was about to expire. The expiration date was actually set to the middle of my vacation, so I decided I had to act or all the users would be getting security warnings.

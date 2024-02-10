@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Simplicity"
+tags: life, simplicity
 ---
 
 

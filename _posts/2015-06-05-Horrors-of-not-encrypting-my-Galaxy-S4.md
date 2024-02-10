@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Horrors of (not) encrypting my Galaxy S4"
+tags: encryption
 ---
 
 Today I decided to enable full disk encryption on my Samsung Galaxy S4 running Android 5.0.1. I wish I never had..

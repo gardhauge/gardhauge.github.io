@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Why I choose Ruby"
+tags: coding
 ---
+
+Update 2024: I no longer work with Ruby, but keeping the article here for the record and for fun.
 
 The past two years, I’ve been working a lot with Ruby on Rails development, only interrupted by some months of Java development. Writing Ruby has been great, the Java period was important as it stood in such stark contrast to the Ruby experience and helped me decide that Ruby is the way to go. Let me tell you a bit about  why I’m so passionate about Ruby.
 

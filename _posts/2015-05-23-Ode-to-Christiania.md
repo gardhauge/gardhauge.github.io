@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ode to Christiania"
+tags: recovery
 ---
 
 Lately I’ve been recovering from an extremely stressful period of my life. An important part of my recovery has been my many walks at Christiania. I would have recovered much slower without the beautiful nature of Christiania nearby. Let me tell you a bit about Christiania and why I’m so grateful of it.
