@@ -10,4 +10,4 @@ The second motivation is financial. Hosting through GitHub pages is totally free
 Thirdly, Jekyll is written in Ruby. I like things written in Ruby and I understand them better than most other things.
 Fourth motivation is related to security. Implementing SSL on my site proved to be a real and expensive hassle. Having a complete database-backed PHP-system running for a personal web page proved to be overkill, it basically provided me more headaches and security issues to consider than it brought me useful features.
 
-I hope you like the site. I have imported all articles from my WordPress site. Please check out the [AngularJS](https://angularjs.org/)-validated [contact form](/contact/) if you want to get in touch with me.
+I hope you like the site. I have imported all articles from my WordPress site. 
